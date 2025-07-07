@@ -1,5 +1,5 @@
 
-# 🔍 Python Port Scanner
+# Python Port Scanner
 A fast, multi-threaded Python port scanner to identify open ports on a target system — built for ethical hacking, recon, and pentesting labs.
 
 ---
